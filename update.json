@@ -1,0 +1,16 @@
+{
+  "clock": {
+    "versionCode": 12,
+    "versionName": "6.5.0",
+    "url": "https://github.com/mrhelmy42-ops/zekr-updates/releases/download/v6.5.0/ZEKR_CLOCK.apk",
+    "sha256": "",
+    "notes": "تحديث أونلاين + تحميل الريموت من الساعة"
+  },
+  "remote": {
+    "versionCode": 6,
+    "versionName": "2.3.0",
+    "url": "https://github.com/mrhelmy42-ops/zekr-updates/releases/download/v6.5.0/ZEKR_REMOTE.apk",
+    "sha256": "",
+    "notes": "تحديث الريموت من الساعة"
+  }
+}

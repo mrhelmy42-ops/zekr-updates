@@ -1,16 +1,16 @@
 {
   "clock": {
-    "versionCode": 40,
-    "versionName": "7.0.0-dev11",
-    "url": "https://github.com/mrhelmy42-ops/zekr-updates/releases/download/v7.0.0-dev11_r3.0.0-dev11/ZEKR_CLOCK.apk",
-    "sha256": "d95f0d61d7ee57e2be5c8cf12820cda57d855c02c0c0bc596551019ede42070f",
-    "notes": "dev11"
+    "versionCode": 41,
+    "versionName": "7.0.0-dev12",
+    "url": "https://github.com/mrhelmy42-ops/zekr-updates/releases/download/v7.0.0-dev12_r3.0.0-dev8/ZEKR_CLOCK.apk",
+    "sha256": "93f5b80df061dbdd7f5177238b443f562edf0a45229502ceda85466ee3d228a6",
+    "notes": "dev12"
   },
   "remote": {
-    "versionCode": 28,
-    "versionName": "3.0.0-dev11",
-    "url": "https://github.com/mrhelmy42-ops/zekr-updates/releases/download/v7.0.0-dev11_r3.0.0-dev11/ZEKR_REMOTE.apk",
-    "sha256": "2eebf03ef1e66607f720ee1563cbf77080fb9724691206fd2a5a3ec191f994f4",
-    "notes": "dev11"
+    "versionCode": 27,
+    "versionName": "3.0.0-dev8",
+    "url": "https://github.com/mrhelmy42-ops/zekr-updates/releases/download/v7.0.0-dev12_r3.0.0-dev8/ZEKR_REMOTE.apk",
+    "sha256": "214f9b3678feccb173b4ecd70b3db9f5b2f0c247a4f9776efd00479cc9d59197",
+    "notes": "dev12"
   }
 }
